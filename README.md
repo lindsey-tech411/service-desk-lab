@@ -4,4 +4,4 @@ A portfolio of simulated service desk tickets completed in Service Desk Simulato
 ## Case Studies
 
 - [New Employee Onboarding](case-studies/new-employee-onboarding.md) — Created a directory account and assigned three requested access groups in Service Desk Simulator.
-- - [Team Transfer Access Update](case-studies/team-transfer-access.md) — Removed Engineering group access and granted access for the employee’s new IT Infrastructure role in Service Desk Simulator.
+- [Team Transfer Access Update](case-studies/team-transfer-access.md) — Removed Engineering group access and granted access for the employee’s new IT Infrastructure role in Service Desk Simulator.
