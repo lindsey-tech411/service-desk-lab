@@ -1,5 +1,5 @@
 # service-desk-iam-lab
-A portfolio of simulated service desk tickets completed in Service Desk Simulator, focused on account provisioning, access troubleshooting, account updates, and incident triage.
+I resolved 19 simulated IT support tickets in Service Desk Simulator. This portfolio highlights selected cases in account provisioning, access management, and troubleshooting.
 
 ## Case Studies
 
