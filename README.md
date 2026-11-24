@@ -3,6 +3,7 @@ I resolved 19 simulated IT support tickets in Service Desk Simulator. This portf
 
 ## Case Studies
 
+- [Customer Support PC Replacement](customer-support-pc-replacement.md) — Set up and sent a replacement desktop after a critical workstation failure in the simulator.
 - [New Employee Onboarding](case-studies/new-employee-onboarding.md) — Created a directory account and assigned three requested access groups in Service Desk Simulator.
 - [Team Transfer Access Update](case-studies/team-transfer-access.md) — Removed Engineering group access and granted access for the employee’s new IT Infrastructure role in Service Desk Simulator.
 - [Third-Floor Network Outage](third-floor-network-outage.md) — Found an offline switch and restored connectivity in the simulator.
