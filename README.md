@@ -1,4 +1,4 @@
-# service-desk-iam-lab
+# service-desk-lab
 I resolved 19 simulated IT support tickets in Service Desk Simulator. This portfolio highlights selected cases in account provisioning, access management, and troubleshooting.
 
 ## Case Studies
